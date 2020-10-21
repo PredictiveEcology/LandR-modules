@@ -4,4 +4,9 @@ Module repository and discussion forum for Landscape Simulation Models using Spa
 
 There may also be discussions happening on specific modules e.g., 
 
-[LandR-Biomass_Core](https://github.com/PredictiveEcology/Biomass_Core)
+### Specific LandR module pages
+
+- [LandR-Biomass_Core](https://github.com/PredictiveEcology/Biomass_Core)
+- [LandR-Biomass_Regeneration](https://github.com/PredictiveEcology/Biomass_Regeneration)
+- [LandR-Biomass_borealDataPrep](https://github.com/PredictiveEcology/Biomass_borealDataPrep)
+- [fireSense](https://github.com/PredictiveEcology/fireSense)
