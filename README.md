@@ -2,7 +2,9 @@
 
 This is a general repository as a forum for discussion related to using SpaDES/LandR modules.
 
-Please feel free to "[Create a New Issue](https://github.com/PredictiveEcology/LandR-modules/issues)" for discussions, questions, bugs, difficulties, etc.
+[Please browse current or past issues/discussions](https://github.com/PredictiveEcology/LandR-modules/issues?q=is%3Aissue)
+
+If you don't see your issue there, please feel free to "[Create a New Issue](https://github.com/PredictiveEcology/LandR-modules/issues/new/choose)" for discussions, questions, bugs, difficulties, etc.
 
 ### Specific LandR module pages
 
