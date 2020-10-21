@@ -1,10 +1,12 @@
 # LandR-modules
 
-Module repository and discussion forum for Landscape Simulation Models using SpaDES/LandR.
+This is a general repository as a forum for discussion related to using SpaDES/LandR modules.
 
-There may also be discussions happening on specific modules e.g., 
+Please feel free to "Create a New Issue" for discussions, questions, bugs, difficulties, etc.
 
 ### Specific LandR module pages
+
+There may also be discussions happening on specific modules e.g., 
 
 - [LandR-Biomass_Core](https://github.com/PredictiveEcology/Biomass_Core)
 - [LandR-Biomass_Regeneration](https://github.com/PredictiveEcology/Biomass_Regeneration)
